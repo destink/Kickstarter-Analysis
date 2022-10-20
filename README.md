@@ -15,9 +15,12 @@ From the historical data provided it can be determined that May is the ideal mon
 ![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95573310/196800803-ff92b8c7-486d-41c9-98da-f1d66fa6fb60.png)
 
 ### Analysis of Outcomes Based on Goals
+The line graph displays that overall the lower the goal of a campaign the higher the success rate up to $15000. After the $15000 threshold the fail rate signifigantly increases. The other observation that can be made is that the ammount of campaigns greatly reduces when the goal is set at $15000 or above which is intuitive in the sense that the higher the goal the less likely to accomplish that goal. 
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95573310/196800864-6dec906e-6643-47bc-b899-7277268fdcb8.png)
 
 ### Challenges and Difficulties Encountered
+For the most part this challenge was pretty straight forward. I did need a slight refreshener in writing the code for the countif function when creating the "Outcomes Based on Goals" sheet. 
 
 ## Results
+Based on the two graphs that were created and the data set it can be concluded that the ideal campaign start date should be in the month of May followed by June and July, respectively. Also the optimal target goal for kickstarter campaigns should be between $1000 and $5000 and not exceed a goal of $15000. 
