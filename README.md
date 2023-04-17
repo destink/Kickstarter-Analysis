@@ -1,4 +1,4 @@
-# Kickstarter-Analysis-Challenge-1
+# Kickstarter-Analysis
 
 ## Overview of Project
 To analyze the Kickstarter data set for Louise to help compare how other campaign outcomes have performed based on their launch dates and funding goals.
